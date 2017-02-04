@@ -1,2 +1,2 @@
-# frontend-started
-Repo for learning frontend 
+This my first repository
+fngkdfkbdfobndfnbdf
